@@ -1,5 +1,4 @@
 # DataCo-Smart-Supply-Chain-Analytics
-Capstone Project @ Great Learning
 ---------------------------------------------------------------------------------------------------------------------------
 
 Optimized Supply Chains and Mitigating Risks: DataCo's Smart Supply Chain Data Analysis using GCP Services and Advanced Data Science Techniques.<br>
